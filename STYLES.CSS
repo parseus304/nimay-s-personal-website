@@ -1,0 +1,26 @@
+h1 {
+	font-family:'Nanum Brush Script',cursive;
+	font-size: 100px;
+	margin-top: 0px;
+	margin-bottom:0px;
+}
+.top-container {
+	background-color: #7bbcd1;
+	position: relative;
+}
+p {
+	font-size: 25px;
+}
+body {
+	text-align: center;
+}	
+.cloud-1 {
+	position: absolute;
+	right: 300px;
+	top: 50px;
+}
+.cloud-2 {
+	position:absolute;
+	left:300px;
+	bottom:300px;
+}
